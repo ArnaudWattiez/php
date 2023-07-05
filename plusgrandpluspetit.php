@@ -14,5 +14,5 @@ while ($nbsaisie != $nbgenere) {
         // $nbcoup++;
     }
 };
-
+//plus grand pluspetit
 echo ("succès! en " . $nbcoup . " coups");
